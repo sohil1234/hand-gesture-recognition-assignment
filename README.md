@@ -1,6 +1,6 @@
 
 # Hand Gesture Recoginition using OpenCV #
-( Star ⭐️ the repo to show your appreciation 😄)
+
 
 
 
